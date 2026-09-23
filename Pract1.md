@@ -1,6 +1,7 @@
 ***Pract 1***
 
 **Задача 1**
+
 "Вывести отсортированный в алфавитном порядке список имен пользователей в файле passwd (вам понадобится grep)."
 
 grep -o '^[^:]*' /etc/passwd | sort
@@ -35,3 +36,15 @@ head -5 - первые 5 строк
 Перед отправкой решения проверьте его в ShellCheck на предупреждения."
 
 
+#1/bin/bash
+if [$# -eq 0 ]; then
+    echo "Использование: $0 ‹текст>" >82
+    exit 1
+fi text="$1" length-${#text}
+line-"+"
+for ( (i = 0; i ‹ length + 2; i++)); do
+    line+="_"
+done line+="+"
+printf "%s\n' "$line"
+printf "| %s | \n' "$text" 
+printf "%s\n' "$line"
