@@ -8,44 +8,14 @@ grep -o - вывести только совпавшую часть строки
 sort - сортировка по алфавиту
 
 Вывод:
-_apt
-_chrony
-alyona
-backup
-bin
-daemon
-dhcpcd
-games
-irc
-landscape
-list
-lp
-mail
-man
-messagebus
-news
-nobody
-polkitd
-proxy
-root
-sync
-sys
-syslog
-systemd-network
-systemd-resolve
-uucp
-www-data
+
 
 
 **Задача 2**
 "Вывести данные /etc/protocols в отформатированном и отсортированном порядке для 5 наибольших портов, как показано в примере ниже:
 
 [root@localhost etc]# cat /etc/protocols ...
-142 rohc
-141 wesp
-140 shim6
-139 hip
-138 manet"
+
 
 grep -v '^#' /etc/protocols | awk 
 '{print $2, $1}' | sort -rn | head -5
@@ -55,8 +25,3 @@ sort -rn - сортировка по числу (-n)  в обратном пор
 head -5 - первые 5 строк
 
 Вывод: 
-262 mptcp
-143 ethernet
-142 rohc
-141 wesp
-140 shim6
