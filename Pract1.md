@@ -13,13 +13,8 @@
 
 [root@localhost etc]# cat /etc/protocols ...
 
-grep -v '^#' /etc/protocols | awk '{print $2, $1}' | sort -rn | head -5
-grep -v '^#' - убирает строки-комментарии
-awk '{print $2, $1}' - смена порядка полей: сначала имя, затем номер протокола
-sort -rn - сортировка по числу (-n)  в обратном порядке (-r)
-head -5 - первые 5 строк
-
-Вывод: 
+Основное решение и вывод:
+<img width="800" height="135" alt="image" src="https://github.com/user-attachments/assets/62e21c61-e6be-473f-9e6f-5824f0411d10" />
 
 
 **Задача 3**
