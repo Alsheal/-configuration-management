@@ -1,15 +1,9 @@
-***Pract 1***
+<img width="583" height="482" alt="image" src="https://github.com/user-attachments/assets/d4b79752-c4dd-43af-8255-ea44ccd6bece" />***Pract 1***
 
 **Задача 1**
 
-"Вывести отсортированный в алфавитном порядке список имен пользователей в файле passwd (вам понадобится grep)."
+<img width="583" height="482" alt="image" src="https://github.com/user-attachments/assets/f12d9111-932d-4465-9acb-8480fbf0661b" />
 
-grep -o '^[^:]*' /etc/passwd | sort
-grep -o - вывести только совпавшую часть строки
-'^[^:]*' - регулярное выражение; все символы кроме двоеточия
-sort - сортировка по алфавиту
-
-Вывод:
 
 
 **Задача 2**
