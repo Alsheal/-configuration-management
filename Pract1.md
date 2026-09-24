@@ -3,6 +3,7 @@
 **Задача 1**
 
 <img width="583" height="482" alt="image" src="https://github.com/user-attachments/assets/f12d9111-932d-4465-9acb-8480fbf0661b" />
+
 Основное решение и вывод:
 <img width="614" height="463" alt="image" src="https://github.com/user-attachments/assets/c13e552c-a6ed-46c8-b901-e57bddffde7f" />
 
