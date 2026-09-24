@@ -26,16 +26,9 @@
 +-----------------------+
 Перед отправкой решения проверьте его в ShellCheck на предупреждения."
 
+Код программы для решения задачи.
+<img width="502" height="366" alt="image" src="https://github.com/user-attachments/assets/24fde157-4718-4618-9f2d-3670ca0413d9" />
 
-#1/bin/bash
-if [$# -eq 0 ]; then
-    echo "Использование: $0 ‹текст>" >82
-    exit 1
-fi text="$1" length-${#text}
-line-"+"
-for ( (i = 0; i ‹ length + 2; i++)); do
-    line+="_"
-done line+="+"
-printf "%s\n' "$line"
-printf "| %s | \n' "$text" 
-printf "%s\n' "$line"
+
+**Задача 4**
+"
