@@ -65,3 +65,22 @@ h hello include int main n printf return stdio void world
 <img width="810" height="144" alt="image" src="https://github.com/user-attachments/assets/85d86247-d7ab-4642-b493-12c27a4f45eb" />
 
 
+**Задача 6** 
+Написать программу для проверки наличия комментария в первой строке файлов с расширением c, js и py.
+
+Код для решения задачи на языке Bash:
+<img width="586" height="276" alt="image" src="https://github.com/user-attachments/assets/88a56c6a-939b-436b-a4a1-113b5e14c29b" />
+
+Код на С для проверки работы программы
+<img width="269" height="72" alt="image" src="https://github.com/user-attachments/assets/2573541c-3dff-4cb5-bd22-a60ecc9d2cde" />
+
+Результат проверки работы программы ( для С )
+<img width="318" height="50" alt="image" src="https://github.com/user-attachments/assets/44493756-f26c-4d4e-aa5b-a5c49780e5a0" />
+
+Код на Python для проверки работы программы
+<img width="167" height="63" alt="image" src="https://github.com/user-attachments/assets/7e081d46-c152-48d9-ac1c-a4a5df9d932f" />
+
+Результат проверки работы программы ( для Python )
+<img width="322" height="50" alt="image" src="https://github.com/user-attachments/assets/44b0ce2a-b3f4-4e24-b30c-721f9cd6f4b7" />
+
+
