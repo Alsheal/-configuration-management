@@ -37,10 +37,12 @@
 h hello include int main n printf return stdio void world
 
 Код для решения задачи на языке Bash:
-<img width="675" height="210" alt="image" src="https://github.com/user-attachments/assets/e6620b45-165a-4fe1-98e2-45107ed73d10" />
+<img width="657" height="242" alt="image" src="https://github.com/user-attachments/assets/41cdf3a9-668a-4c35-bd06-e277b3f94c43" />
+
 
 Код на языке С, для проверки работы кода на Bash
 <img width="356" height="139" alt="image" src="https://github.com/user-attachments/assets/402baee5-1dd3-4d6b-8d95-20c1e6ee3c63" />
+
 
 Результат вывода строки на терминал с помощью команды ./hello hello.c
 <img width="603" height="95" alt="image" src="https://github.com/user-attachments/assets/88ca5373-cd39-4acf-a521-63758c0746c6" />
