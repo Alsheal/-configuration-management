@@ -46,3 +46,22 @@ h hello include int main n printf return stdio void world
 
 Результат вывода строки на терминал с помощью команды ./hello hello.c
 <img width="603" height="95" alt="image" src="https://github.com/user-attachments/assets/88ca5373-cd39-4acf-a521-63758c0746c6" />
+
+
+**Задача 5**
+Написать программу для регистрации пользовательской команды (правильные права доступа и копирование в /usr/local/bin).
+
+Например, пусть программа называется reg:
+./reg banner
+В результате для banner задаются правильные права доступа и сам banner копируется в /usr/local/bin.
+
+Код файла reg для решения задачи
+<img width="302" height="132" alt="image" src="https://github.com/user-attachments/assets/9fd6e6b5-6218-44ce-aa9e-96efec03e015" />
+
+Код файла banner для решения задачи
+<img width="311" height="100" alt="image" src="https://github.com/user-attachments/assets/04b53303-c96a-4ce1-bce3-e7347605a36d" />
+
+Результат работы программы с проверкой на месторасположение команды
+<img width="810" height="144" alt="image" src="https://github.com/user-attachments/assets/85d86247-d7ab-4642-b493-12c27a4f45eb" />
+
+
