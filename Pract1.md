@@ -84,3 +84,5 @@ h hello include int main n printf return stdio void world
 <img width="322" height="50" alt="image" src="https://github.com/user-attachments/assets/44b0ce2a-b3f4-4e24-b30c-721f9cd6f4b7" />
 
 
+**Задача 7**
+Написать программу для нахождения файлов-дубликатов (имеющих 1 или более копий содержимого) по заданному пути (и подкаталогам).
