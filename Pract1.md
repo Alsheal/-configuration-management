@@ -86,3 +86,29 @@ h hello include int main n printf return stdio void world
 
 **Задача 7**
 Написать программу для нахождения файлов-дубликатов (имеющих 1 или более копий содержимого) по заданному пути (и подкаталогам).
+
+Код для решения задачи на языке Bash:
+<img width="584" height="69" alt="{A531A1EC-D9CD-404F-BA7B-9D44FB9D9CAE}" src="https://github.com/user-attachments/assets/200cb8dc-955c-4799-af6d-1c6a63e2f4a8" />
+
+Пример работы программы при случае, когда нет дубликатов
+<img width="358" height="49" alt="{1AD12658-7D5A-40EF-BEED-67E8732DD4A8}" src="https://github.com/user-attachments/assets/4be7b2d8-6a23-44ae-a20c-d145ce2d97c2" />
+
+Код для "тестировки" работы программы, "cоздаем дубликаты"
+<img width="243" height="72" alt="{7CC1421A-CAEC-41F5-9425-42B72FDA0616}" src="https://github.com/user-attachments/assets/5e94d070-8556-4a91-bbe5-e59f8b9eb9c0" />
+
+Пример работы программы при случае, когда есть дубликаты
+<img width="439" height="39" alt="{08F9F780-3B0E-41F5-8E3A-EF84DAB62B41}" src="https://github.com/user-attachments/assets/b257b6cc-f922-4bae-a9c8-7b8a62ec4239" />
+
+
+**Задача 8**
+Написать программу, которая находит все файлы в данном каталоге с расширением, указанным в качестве аргумента и архивирует все эти файлы в архив tar.
+
+Код для решения задачи на языке Bash:
+<img width="416" height="184" alt="{CC412985-D8BF-48EE-953C-FAEAE69F6681}" src="https://github.com/user-attachments/assets/a5ff5c16-4ed3-41e9-975d-42eed2096f19" />
+
+Пример работы программы
+<img width="191" height="24" alt="{442A5E84-C750-4145-8CC6-33D9761DBE19}" src="https://github.com/user-attachments/assets/1d8064d9-9b6e-49e4-92f8-5505c059d77a" />
+<img width="226" height="24" alt="{021B3A9A-99A1-4770-B95D-9649EC5B52E0}" src="https://github.com/user-attachments/assets/29e19f63-0bef-409b-87f6-5e7a1589ab17" />
+
+Код для просмотра содержимого архива tar
+<img width="240" height="40" alt="{11BDDB00-87C4-452B-9001-72C8DE9DD819}" src="https://github.com/user-attachments/assets/dd20b639-3ded-4d91-a016-f380e3fac963" />
