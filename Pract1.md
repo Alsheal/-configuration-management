@@ -122,3 +122,15 @@ h hello include int main n printf return stdio void world
 Пример работы программы
 <img width="412" height="121" alt="{196BF801-C3FE-41BE-A0E8-863612716B94}" src="https://github.com/user-attachments/assets/74f486e7-d50b-41e1-b086-43a26798bf85" />
 
+
+**Задача 10**
+Написать программу, которая выводит названия всех пустых текстовых файлов в указанной директории. Директория передается в программу параметром.
+
+Код для решения задачи на языке Bash:
+<img width="236" height="61" alt="{A5D334C3-CADF-4453-A8F8-2F10E238469C}" src="https://github.com/user-attachments/assets/bca15937-c622-492a-9d73-b04b1582b28a" />
+
+Создаём тестовые файлы:
+<img width="467" height="54" alt="{E93565FA-1A3C-4CA9-84B5-0C63FA6FF7E4}" src="https://github.com/user-attachments/assets/64550cb9-6148-4716-b4f4-a390903bf5bd" />
+
+Пример работы программы
+<img width="304" height="56" alt="{E544B579-0000-447A-9E35-233B7FB387F4}" src="https://github.com/user-attachments/assets/6292e216-7561-4fff-be92-e36e9c68a9c2" />
