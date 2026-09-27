@@ -112,3 +112,13 @@ h hello include int main n printf return stdio void world
 
 Код для просмотра содержимого архива tar
 <img width="240" height="40" alt="{11BDDB00-87C4-452B-9001-72C8DE9DD819}" src="https://github.com/user-attachments/assets/dd20b639-3ded-4d91-a016-f380e3fac963" />
+
+**Задача 9**
+Написать программу, которая заменяет в файле последовательности из 4 пробелов на символ табуляции. Входной и выходной файлы задаются аргументами.
+
+Код для решения задачи на языке Bash:
+<img width="277" height="69" alt="{470CA042-4C3D-4908-AFAC-627061695F80}" src="https://github.com/user-attachments/assets/18e65767-ec5f-40ce-b106-78c126629336" />
+
+Пример работы программы
+<img width="412" height="121" alt="{196BF801-C3FE-41BE-A0E8-863612716B94}" src="https://github.com/user-attachments/assets/74f486e7-d50b-41e1-b086-43a26798bf85" />
+
