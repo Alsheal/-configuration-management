@@ -56,7 +56,7 @@ h hello include int main n printf return stdio void world
 В результате для banner задаются правильные права доступа и сам banner копируется в /usr/local/bin.
 
 Код файла reg для решения задачи
-<img width="302" height="132" alt="image" src="https://github.com/user-attachments/assets/9fd6e6b5-6218-44ce-aa9e-96efec03e015" />
+<img width="281" height="125" alt="{052500D3-7DEB-4892-9309-BAEEC10876DB}" src="https://github.com/user-attachments/assets/994a52af-8251-418c-8249-d794cf8eaaef" />
 
 Код файла banner для решения задачи
 <img width="311" height="100" alt="image" src="https://github.com/user-attachments/assets/04b53303-c96a-4ce1-bce3-e7347605a36d" />
