@@ -88,7 +88,7 @@ h hello include int main n printf return stdio void world
 Написать программу для нахождения файлов-дубликатов (имеющих 1 или более копий содержимого) по заданному пути (и подкаталогам).
 
 Код для решения задачи на языке Bash:
-<img width="584" height="69" alt="{A531A1EC-D9CD-404F-BA7B-9D44FB9D9CAE}" src="https://github.com/user-attachments/assets/200cb8dc-955c-4799-af6d-1c6a63e2f4a8" />
+<img width="574" height="198" alt="{7EA186A5-05CE-4D49-8293-38FC273B658A}" src="https://github.com/user-attachments/assets/05b3d905-c5bf-4419-b70a-60719fd284c7" />
 
 Пример работы программы при случае, когда нет дубликатов
 <img width="358" height="49" alt="{1AD12658-7D5A-40EF-BEED-67E8732DD4A8}" src="https://github.com/user-attachments/assets/4be7b2d8-6a23-44ae-a20c-d145ce2d97c2" />
