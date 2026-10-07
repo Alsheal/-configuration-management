@@ -1,7 +1,7 @@
 ***Pract 1***
 
 **Задача 1**
-
+"Вывести отсортированный в алфавитном порядке список имен пользователей в файле passwd (вам понадобится grep)."
 <img width="583" height="482" alt="image" src="https://github.com/user-attachments/assets/f12d9111-932d-4465-9acb-8480fbf0661b" />
 
 Основное решение и вывод:
